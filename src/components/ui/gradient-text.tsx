@@ -2,7 +2,7 @@
 	Installed from https://reactbits.dev/ts/tailwind/
 */
 
-import React, { type ReactNode } from "react";
+import { type ReactNode } from "react";
 
 interface GradientTextProps {
   children: ReactNode;
